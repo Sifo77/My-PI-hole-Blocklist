@@ -1,2 +1,3 @@
-# My-PI-hole-Blocklist
-My block custom pi-hole blocklists to block unwanted traffic to a network.
+# My PI-hole blocklist
+
+My custom Pi-hole blocklists to block unwanted traffic to a network.
